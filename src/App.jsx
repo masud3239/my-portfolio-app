@@ -60,7 +60,7 @@ function App() {
      
 
      <section className="mt-10 flex justify-center mb-12">
-      <div className="w-[500px] h-30 bg-amber-500 text-center p-10 text-4xl text-white rounded-2xl shadow-2xl"> I am proud</div>
+      <div className="w-[500px] h-30 bg-amber-500 text-center p-10 text-4xl text-white rounded-2xl shadow-2xl"> My dream is to become a great web developer</div>
      </section>
     </>
   )
